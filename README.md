@@ -1,28 +1,6 @@
 
-<h1 align="center">
-  <a href="https://github.com/szhshp/ProjectBisheng">
-
-    毕昇工程
-
-  </a>
-
-</h1>
-
+# Project Bisheng
 <div align=center><img src="./assets/logo.png"/></div>
-
-<p align="center">
- <img src="https://img.shields.io/npm/v/bisheng-formatter-core"/>
-
- <br/>
- <img src="https://img.shields.io/badge/link-996.icu-red.svg"/>
- <img src="https://img.shields.io/badge/license-Anti%20996-blue.svg"/>
-
- <br/>
- <img src="https://img.shields.io/github/languages/top/szhshp/ProjectBisheng"/>
-
-  <img src="https://img.shields.io/badge/License-MIT-orange"/>
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/szhshp/ProjectBisheng">
-</p>
 
 > '毕昇' - 中英文混排工具
 >  
@@ -34,7 +12,7 @@
 ### CLI
 
 ```sh
-npx bisheng-formatter-core {Your File}
+npx bisheng-formatter-core {YourFile.md}
 ```
 
 ### API
